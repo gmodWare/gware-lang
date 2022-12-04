@@ -1,0 +1,43 @@
+{
+    "setting_npc-weapon-drop_name": "NPC Waffen Drop",
+    "setting_npc-weapon-drop_desc": "Waffendrop von NPCs deaktivieren?",
+
+    "setting_toolgun-sounds_name": "Toolgun Geräusche",
+    "setting_toolgun-sound_desc": "Toolgun Geräusche deaktiviern?",
+
+    "setting_toolgun-effects_name": "Toolgun Effekte",
+    "setting_toolgun-effects_desc": "Toolgun Effekte deaktivieren?",
+
+    "setting_auto-cloak_name": "Automatischer Cloak bei Noclip",
+    "setting_auto-cloal_desc": "Automatisch Cloaken bei Noclip?",
+
+    "setting_killfeed_name": "Killfeed ausblenden",
+    "setting_killfeed_desc": "Sollen Spielertode ausgeblendet werden?",
+
+    "setting_suicide_name": "Selbstmord",
+    "setting_suicide_desc": "'Kill' in der Konsole verbieten?",
+
+    "setting_player-weapon-drop_name": "Spieler Waffen Drop",
+    "setting_player-weapon-drop_desc": "Waffen Drop für Spieler deaktivieren?",
+
+    "setting_auto-workshop-dl_name": "Automatischer Workshop Download",
+    "setting_auto-workshop-dl_desc": "Sollen alle User bei joinen die Kollektion automatisch downloaden?",
+
+    "setting_billboards_name": "DarkRP Tafeln",
+    "setting_billboards_desc": "DarkRP Tafeln bei '/advert' deaktivieren?",
+
+    "setting_family-sharing_name": "Family Sharing",
+    "setting_family-sharing_desc": "Sollen User die Family-Sharing benutzen, sofort gekickt werden?",
+
+    "setting_voice-panels_name": "Sprachanzeige",
+    "setting_voice-panels_desc": "Sprachanzeige rechts unten deaktiveren?",
+
+    "setting_spawnmenu_name": "Spawnmenu",
+    "setting_spawnmenu_desc": "Wird eine Berechtigung benötigt um das Spawnmenu öffnen zu können?",
+    
+    "setting_contextmenu_name": "Contextmenü",
+    "setting_contextmenu_desc": "Wird eine Berechtigung benötigt um das C Menu öffnen zu können?",
+
+    "setting_encrypted-comms_name": "Verschlüsselter Funk",
+    "setting_encrypted-comms_desc": "Wer kann verschlüsselt Funken?"
+}
