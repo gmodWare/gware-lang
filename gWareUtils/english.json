@@ -21,7 +21,7 @@
     "setting_player-weapon-drop_desc": "Disables weapon drop for players.",
 
     "setting_auto-workshop-dl_name": "Workshop Collection",
-    "setting_auto-workshop-dl_desc": "Lets all players download the collection on server join",
+    "setting_auto-workshop-dl_desc": "Makes all players download the collection on server join",
 
     "setting_billboards_name": "DarkRP Billboard",
     "setting_billboards_desc": "Disables DarkRP billboards from '/advert'",
@@ -30,13 +30,13 @@
     "setting_family-sharing_desc": "Kicks all players using steam family sharing",
 
     "setting_voice-panels_name": "Voice Panels",
-    "setting_voice-panels_desc": "Hidesvoice panels on the bottom right",
+    "setting_voice-panels_desc": "Hides voice panels on the bottom right",
 
     "setting_spawnmenu_name": "Spawnmenu",
-    "setting_spawnmenu_desc": "Do you need permission to access the spawnmenu?",
+    "setting_spawnmenu_desc": "Adds a SAM/CAMI permission to access the spawnmenu",
     
     "setting_contextmenu_name": "Contextmenu",
-    "setting_contextmenu_desc": "Do you need permission to access the contextmenu?",
+    "setting_contextmenu_desc": "Adds a SAM/CAMI permission to access the contextmenu",
 
     "setting_encrypted-comms_name": "Encrypted Comms",
     "setting_encrypted-comms_desc": "Who can use encrypted comms."
