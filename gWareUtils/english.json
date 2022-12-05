@@ -15,13 +15,13 @@
     "setting_killfeed_desc": "Stops the killfeed from showing.",
 
     "setting_suicide_name": "Suicide",
-    "setting_suicide_desc": "Disallow 'kill' command?",
+    "setting_suicide_desc": "Disallowes the suicide command?",
 
     "setting_player-weapon-drop_name": "Player Weapon Drop",
     "setting_player-weapon-drop_desc": "Disables weapon drop for players.",
 
     "setting_auto-workshop-dl_name": "Workshop Collection",
-    "setting_auto-workshop-dl_desc": "Let all players download the collection on server join?",
+    "setting_auto-workshop-dl_desc": "Lets all players download the collection on server join",
 
     "setting_billboards_name": "DarkRP Billboard",
     "setting_billboards_desc": "Disables DarkRP billboards from '/advert'",
@@ -39,5 +39,5 @@
     "setting_contextmenu_desc": "Do you need permission to access the contextmenu?",
 
     "setting_encrypted-comms_name": "Encrypted Comms",
-    "setting_encrypted-comms_desc": "Who can use encrypted comms?"
+    "setting_encrypted-comms_desc": "Who can use encrypted comms."
 }
