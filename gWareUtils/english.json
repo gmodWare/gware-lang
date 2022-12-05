@@ -1,0 +1,43 @@
+{
+    "setting_npc-weapon-drop_name": "NPC Weapon Drop",
+    "setting_npc-weapon-drop_desc": "Deactivate weapon drop form NPCs?",
+
+    "setting_toolgun-sounds_name": "Toolgun Sounds",
+    "setting_toolgun-sound_desc": "Deactivate toolgun sounds?",
+
+    "setting_toolgun-effects_name": "Toolgun Effects",
+    "setting_toolgun-effects_desc": "Deactivate toolgun effects?",
+
+    "setting_auto-cloak_name": "Automatic Cloak on Noclip",
+    "setting_auto-cloal_desc": "Cloak automatically on noclip?",
+
+    "setting_killfeed_name": "Killfeed",
+    "setting_killfeed_desc": "Hide Killfeed?",
+
+    "setting_suicide_name": "Suicide",
+    "setting_suicide_desc": "Disallow 'kill' command?",
+
+    "setting_player-weapon-drop_name": "Player Weapon Drop",
+    "setting_player-weapon-drop_desc": "Disable weapon drop for players?",
+
+    "setting_auto-workshop-dl_name": "Workshop Collection",
+    "setting_auto-workshop-dl_desc": "Let all players download the collection on server join?",
+
+    "setting_billboards_name": "DarkRP Billboard",
+    "setting_billboards_desc": "Deactivate DarkRP billboards from '/advert'?",
+
+    "setting_family-sharing_name": "Family Sharing",
+    "setting_family-sharing_desc": "Kick all players using steam family sharing?",
+
+    "setting_voice-panels_name": "Voice Panels",
+    "setting_voice-panels_desc": "Hide voice panels on bottom right?",
+
+    "setting_spawnmenu_name": "Spawnmenu",
+    "setting_spawnmenu_desc": "Do you need a permission to access the spawnmenu?",
+    
+    "setting_contextmenu_name": "Contextmenu",
+    "setting_contextmenu_desc": "Do you need a permission to access the contextmenu?",
+
+    "setting_encrypted-comms_name": "Encrypted Comms",
+    "setting_encrypted-comms_desc": "Who can use encrypted comms?"
+}
