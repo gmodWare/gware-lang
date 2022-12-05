@@ -24,13 +24,13 @@
     "setting_auto-workshop-dl_desc": "Let all players download the collection on server join?",
 
     "setting_billboards_name": "DarkRP Billboard",
-    "setting_billboards_desc": "Deactivate DarkRP billboards from '/advert'?",
+    "setting_billboards_desc": "Disables DarkRP billboards from '/advert'",
 
     "setting_family-sharing_name": "Family Sharing",
-    "setting_family-sharing_desc": "Kick all players using steam family sharing?",
+    "setting_family-sharing_desc": "Kicks all players using steam family sharing",
 
     "setting_voice-panels_name": "Voice Panels",
-    "setting_voice-panels_desc": "Hide voice panels on the bottom right?",
+    "setting_voice-panels_desc": "Hidesvoice panels on the bottom right",
 
     "setting_spawnmenu_name": "Spawnmenu",
     "setting_spawnmenu_desc": "Do you need permission to access the spawnmenu?",
