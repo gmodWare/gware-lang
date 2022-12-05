@@ -14,7 +14,7 @@
     "setting_killfeed_name": "Hide Killfeed",
     "setting_killfeed_desc": "Stops the killfeed from showing.",
 
-    "setting_suicide_name": "Suicide",
+    "setting_suicide_name": "Disable Suicide",
     "setting_suicide_desc": "Disallowes the suicide command?",
 
     "setting_player-weapon-drop_name": "Player Weapon Drop",
