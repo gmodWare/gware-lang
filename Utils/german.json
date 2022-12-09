@@ -3,13 +3,13 @@
     "setting_npc-weapon-drop_desc": "Waffendrop von NPCs deaktivieren?",
 
     "setting_toolgun-sounds_name": "Toolgun Geräusche",
-    "setting_toolgun-sound_desc": "Toolgun Geräusche deaktiviern?",
+    "setting_toolgun-sounds_desc": "Toolgun Geräusche deaktiviern?",
 
     "setting_toolgun-effects_name": "Toolgun Effekte",
     "setting_toolgun-effects_desc": "Toolgun Effekte deaktivieren?",
 
     "setting_auto-cloak_name": "Automatischer Cloak bei Noclip",
-    "setting_auto-cloal_desc": "Automatisch Cloaken bei Noclip?",
+    "setting_auto-cloak_desc": "Automatisch Cloaken bei Noclip?",
 
     "setting_killfeed_name": "Killfeed ausblenden",
     "setting_killfeed_desc": "Sollen Spielertode ausgeblendet werden?",
