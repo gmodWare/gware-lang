@@ -1,4 +1,7 @@
 {
+    "setting_language_name": "Language",
+    "setting_language_desc": "Select your disred language for the user interface",
+    
     "setting_npc-weapon-drop_name": "NPC Weapon Drop",
     "setting_npc-weapon-drop_desc": "Deactivate NPCs dropping weapons on death",
 
