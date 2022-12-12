@@ -42,5 +42,8 @@
     "setting_contextmenu_desc": "Adds a SAM/CAMI permission to access the contextmenu",
 
     "setting_encrypted-comms_name": "Encrypted Comms",
-    "setting_encrypted-comms_desc": "Who can use encrypted comms."
+    "setting_encrypted-comms_desc": "Which jobs can use encrypted comms.",
+    
+    "setting_decode_name": "Decode Encrypted Comms",
+    "setting_decode_desc": "Which jobs can decode encrypted comms."
 }
