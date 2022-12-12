@@ -45,5 +45,24 @@
     "setting_encrypted-comms_desc": "Wer kann verschlüsselt Funken?",
     
     "setting_decode_name": "Nachrichten Entschlüsseln",
-    "setting_decode_desc": "Welche Jobs können verschlüsselte Nachrichten entschlüsseln."
+    "setting_decode_desc": "Welche Jobs können verschlüsselte Nachrichten entschlüsseln.",
+    
+    
+    "notify_decode_name": "Verschlüsselter Funk",
+    "notify_decode_desc": "Du kannst nicht verschüsselt funken!",
+    
+    "notify_invalid-decode_name": "Ungültiger decode",
+    "notify_invalid-decode_desc": "Decode Beispiel: '/decode 20 68 61 6c 6c 6'",
+    
+    "notify_invalid-comms_name": "Ungültiger Funk",
+    "notify_invalid-comms_desc": "Funk Beispiel: /funk Commander Rex* Befinde mich nun im Dienst.",
+    
+    "notify_invalid-encrypted-comms_name": "Ungültiger Verschlüsselter Funk",
+    "notify_invalid-encrypted-ecomms_desc": "Verschlüsselter Funk Beispiel: /vfunk Commander Rex* Befinde mich nun im Dienst",
+    
+    "notify_empty_name": "Ungültige Nachricht",
+    "notify_empty_desc": "Du kannst keine leere Nachricht senden!",
+    
+    "notify_missing-perms-encrypted_name": "Verschlüsselter Funk",
+    "notify_missing-perms-encrypted_desc": "Du kannst nicht verschlüsselt funken!"
 }
