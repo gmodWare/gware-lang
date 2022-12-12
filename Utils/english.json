@@ -49,7 +49,7 @@
     
     
     "notify_decode_name": "Encrypted Comms",
-    "notify_decode_desc": "You cannot decode encrypted comms!"
+    "notify_decode_desc": "You cannot decode encrypted comms!",
     
     "notify_invalid-decode_name": "Invalid Decode",
     "notify_invalid-decode_desc": "Decode example: '/decode 20 68 61 6c 6c 6'",
