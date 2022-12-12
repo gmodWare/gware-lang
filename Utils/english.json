@@ -45,5 +45,24 @@
     "setting_encrypted-comms_desc": "Which jobs can use encrypted comms.",
     
     "setting_decode_name": "Decode Encrypted Comms",
-    "setting_decode_desc": "Which jobs can decode encrypted comms."
+    "setting_decode_desc": "Which jobs can decode encrypted comms.",
+    
+    
+    "notify_decode_name": "Encrypted Comms",
+    "notify_decode_desc": "You cannot decode encrypted comms!"
+    
+    "notify_invalid-decode_name": "Invalid Decode",
+    "notify_invalid-decode_desc": "Decode example: '/decode 20 68 61 6c 6c 6'",
+    
+    "notify_invalid-comms_name": "Invalid Comms",
+    "notify_invalid-comms_desc": "Comms Usage: /comms Commander Rex* Where are you?",
+    
+    "notify_invalid-encrypted-comms_name": "Invalid Encrypted Comms",
+    "notify_invalid-encrypted-ecomms_desc": "Comms Usage: /ecomms Commander Rex* Where are you?",
+    
+    "notify_empty_name": "Invalid Message",
+    "notify_empty_desc": "Your message cant be empty",
+    
+    "notify_missing-perms-encrypted_name": "Encrypted Comms",
+    "notify_missing-perms-encrypted_desc": "You cannot use encrypted comms!"
 }
