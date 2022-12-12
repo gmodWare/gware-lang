@@ -42,5 +42,8 @@
     "setting_contextmenu_desc": "Wird eine Berechtigung benötigt um das C Menu öffnen zu können?",
 
     "setting_encrypted-comms_name": "Verschlüsselter Funk",
-    "setting_encrypted-comms_desc": "Wer kann verschlüsselt Funken?"
+    "setting_encrypted-comms_desc": "Wer kann verschlüsselt Funken?",
+    
+    "setting_decode_name": "Nachrichten Entschlüsseln",
+    "setting_decode_desc": "Welche Jobs können verschlüsselte Nachrichten entschlüsseln."
 }
