@@ -125,9 +125,9 @@
     "general_to": "to",
     
     
-    "vote_question": "Question", 
-    "vote_multiple-choice": "Mulitple Choice",
-    "vote_choice": "Choice",
+    "vote_question": "Enter a Question...", 
+    "vote_multiple-choice": "Choices To Select",
+    "vote_choice": "Possible Choice",
     "vote_add-choice": "Add Choice",
     "vote_submit": "Submit"
     
