@@ -104,6 +104,7 @@
     "notify_jobsetter-deleted_name": "Spawn entfernt",
     "notify_jobsetter-deleted_desc": "Du hast erfolgreich %s gelöscht!",
     
+    
     "command_act": "Akt",
     "command_decode": "Entschlüsselt",
     "command_comms": "Funk",
