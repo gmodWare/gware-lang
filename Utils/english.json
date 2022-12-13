@@ -121,5 +121,13 @@
     "command_medic_act": "Medic Act",
     "command_advert": "Advert",
     
-    "general_to": "to"
+    
+    "general_to": "to",
+    
+    
+    "vote_question": "Question", 
+    "vote_multiple-choice": "Mulitple Choice",
+    "vote_choice": "Choice",
+    "vote_submit": "Submit"
+    
 }
