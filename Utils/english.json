@@ -1,4 +1,9 @@
 {
+    "tab_options": "Options",
+    "tab_vote": "Vote",
+    "tab_commands": "Commands",
+    
+    
     "setting_language_name": "Language",
     "setting_language_desc": "Select your disred language for the user interface",
     
