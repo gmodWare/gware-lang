@@ -61,8 +61,41 @@
     "notify_invalid-encrypted-ecomms_desc": "Comms Usage: /ecomms Commander Rex* Where are you?",
     
     "notify_empty_name": "Invalid Message",
-    "notify_empty_desc": "Your message cant be empty",
+    "notify_empty_desc": "Your message cant be empty!",
     
     "notify_missing-perms-encrypted_name": "Encrypted Comms",
-    "notify_missing-perms-encrypted_desc": "You cannot use encrypted comms!"
+    "notify_missing-perms-encrypted_desc": "You cannot use encrypted comms!",
+    
+    "notify_disallowed-suicide_name": "Anti-Suicide",
+    "notify_disallowed-suicide_desc": "You cannot commit suicide!",
+    
+    "notify_no-permissions_name": "gWare",
+    "notify_no-permissions_desc": "You don't have enough permissions to do this!",
+    
+    "notify_max-vote-answers_name": "Max Choices Reached",
+    "notify_max-vote-answers_name": "You cannot add more choices to this vote!",
+    
+    "notify_vote-missing-fields_name": "Missing Fields",
+    "notify_vote-missing-fields_desc": "You havent filled out all fields!",
+    
+    "notify_vote-success_name": "Vote Successfull",
+    "notify_vote-success_desc": "You have successfully started a vote!",
+    
+    "notify_jobsetter-created_name": "Job Spawn Setter",
+    "notify_jobsetter-created_desc": "You've successfully created %s!",
+    
+    "notify_jobsetter-select-npc_name": "Selection Missing",
+    "notify_jobsetter-select-npc_desc": "You need to select a NPC!",
+    
+    "notify_jobsetter-select-jobs_name": "Selection Missing",
+    "notify_jobsetter-select-jobs_desc": "You need to select jobs!",
+    
+    "notify_jobsetter-removed-spawns_name": "Spawns Removed",
+    "notify_jobsetter-removed-spawns_desc": "Jobs no longer spawn at %s!",
+    
+    "notify_jobsetter-spawn-added_name": "Spawn Created",
+    "notify_jobsetter-spawn-added_desc": "Selected jobs are now spawning at %s!",
+    
+    "notify_jobsetter-deleted_name": "Spawn Deleted",
+    "notify_jobsetter-deleted_desc": "You've successfully deleted %s!"
 }
