@@ -69,7 +69,7 @@
     "notify_disallowed-suicide_name": "Anti-Suicide",
     "notify_disallowed-suicide_desc": "You cannot commit suicide!",
     
-    "notify_no-permissions_name": "gWare",
+    "notify_no-permissions_name": "Missing Permissions",
     "notify_no-permissions_desc": "You don't have enough permissions to do this!",
     
     "notify_max-vote-answers_name": "Max Choices Reached",
