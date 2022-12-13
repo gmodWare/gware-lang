@@ -121,5 +121,12 @@
     "command_medic_act": "Medic Akt",
     "command_advert": "Advert",
     
+    
     "general_to": "an"
+    
+    
+    "vote_question": "Frage", 
+    "vote_multiple-choice": "Antwortmöglichkeiten",
+    "vote_choice": "Anwort",
+    "vote_submit": "Umfrage senden"
 }
