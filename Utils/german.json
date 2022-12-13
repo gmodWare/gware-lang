@@ -128,5 +128,6 @@
     "vote_question": "Frage", 
     "vote_multiple-choice": "Antwortmöglichkeiten",
     "vote_choice": "Anwort",
+    "vote_add-choice": "Antwort hinzufügen",
     "vote_submit": "Umfrage senden"
 }
