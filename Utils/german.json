@@ -69,5 +69,38 @@
     "notify_empty_desc": "Du kannst keine leere Nachricht senden!",
     
     "notify_missing-perms-encrypted_name": "Verschlüsselter Funk",
-    "notify_missing-perms-encrypted_desc": "Du kannst nicht verschlüsselt funken!"
+    "notify_missing-perms-encrypted_desc": "Du kannst nicht verschlüsselt funken!",
+    
+    "notify_disallowed-suicide_name": "Anti-Selbstmod",
+    "notify_disallowed-suicide_desc": "Du kannst dich nicht umbringen!",
+    
+    "notify_no-permissions_name": "Fehlende Berechtigungen",
+    "notify_no-permissions_desc": "Du besitzt nicht die benöntigten Berichtigungen das zu tun",
+    
+    "notify_max-vote-answers_name": "Maximale Auswahlmöglichkeiten erreicht",
+    "notify_max-vote-answers_desc": "Du kannst keine weiteren Auswahlmöglichkeiten zu dieser Abstimmung hinzufügen",
+    
+    "notify_vote-missing-fields_name": "Fehlende Felder",
+    "notify_vote-missing-fields_desc": "Du hast nicht alle Felder ausgefüllt",
+    
+    "notify_vote-success_name": "Abstimmung erfolgreich",
+    "notify_vote-success_desc": "Du hast erfolgreich eine Abstimmung gestartet.",
+    
+    "notify_jobsetter-created_name": "Job Spawn Setzer",
+    "notify_jobsetter-created_desc": "Du hast erfolgreich %s erstellt!",
+    
+    "notify_jobsetter-select-npc_name": "Auswahl fehlt",
+    "notify_jobsetter-select-npc_desc": "Du musst einen NPC auswählen!",
+    
+    "notify_jobsetter-select-jobs_name": "Auswahl fehlt",
+    "notify_jobsetter-select-jobs_desc": "Du musst Jobs auswählen!",
+    
+    "notify_jobsetter-removed-spawns_name": "Spawns entfernt",
+    "notify_jobsetter-removed-spawns_desc": "Die Jobs spawnen nicht mehr bei %s!",
+    
+    "notify_jobsetter-spawn-added_name": "Spawn erstellt",
+    "notify_jobsetter-spawn-added_desc": "Die ausgewählten Jobs spawnen nun bei %s!",
+    
+    "notify_jobsetter-deleted_name": "Spawn entfernt",
+    "notify_jobsetter-deleted_desc": "Du hast erfolgreich %s gelöscht!"
 }
