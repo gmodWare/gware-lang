@@ -102,5 +102,15 @@
     "notify_jobsetter-spawn-added_desc": "Die ausgewählten Jobs spawnen nun bei %s!",
     
     "notify_jobsetter-deleted_name": "Spawn entfernt",
-    "notify_jobsetter-deleted_desc": "Du hast erfolgreich %s gelöscht!"
+    "notify_jobsetter-deleted_desc": "Du hast erfolgreich %s gelöscht!",
+    
+    "command_act": "Akt",
+    "command_decode": "Entschlüsselt",
+    "command_comms": "Funk",
+    "command_ooc": "OOC",
+    "command_looc": "Lokaler OOC",
+    "command_roll": "Würfel",
+    "command_encrypted-comms": "Verschl. Comms",
+    "command_medic_act": "Medic Akt",
+    "command_advert": "Advert"
 }
