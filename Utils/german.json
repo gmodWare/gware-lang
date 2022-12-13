@@ -1,4 +1,9 @@
 {
+    "tab_options": "Optionen",
+    "tab_vote": "Wahlen",
+    "tab_commands": "Befehle",
+    
+    
     "setting_language_name": "Sprache",
     "setting_language_desc": "Wähle deine gewünschte Sprache für die Benutzeroberfläche aus.",
     
