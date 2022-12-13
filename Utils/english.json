@@ -73,7 +73,7 @@
     "notify_no-permissions_desc": "You don't have enough permissions to do this!",
     
     "notify_max-vote-answers_name": "Max Choices Reached",
-    "notify_max-vote-answers_name": "You cannot add more choices to this vote!",
+    "notify_max-vote-answers_desc": "You cannot add more choices to this vote!",
     
     "notify_vote-missing-fields_name": "Missing Fields",
     "notify_vote-missing-fields_desc": "You havent filled out all fields!",
