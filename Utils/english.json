@@ -70,6 +70,12 @@
     
     "notify_missing-perms-encrypted_name": "Encrypted Comms",
     "notify_missing-perms-encrypted_desc": "You cannot use encrypted comms!",
+
+    "notify_unstuck-error_name": "Invalid Unstuck",
+    "notify_unstuck-error-cooldown_desc": "You are currently on cooldown!",
+    "notify_unstuck-error-invalid_desc": "You seem to not be stuck.",
+    "notify_unstuck_name": "Unstuck",
+    "notify_unstuck-start_desc": "You have 3 seconds to unstuck yourself!",
     
     "notify_disallowed-suicide_name": "Anti-Suicide",
     "notify_disallowed-suicide_desc": "You cannot commit suicide!",
