@@ -119,5 +119,7 @@
     "command_roll": "Würfel",
     "command_encrypted-comms": "Verschl. Comms",
     "command_medic_act": "Medic Akt",
-    "command_advert": "Advert"
+    "command_advert": "Advert",
+    
+    "general_to": "an"
 }
