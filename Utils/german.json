@@ -70,6 +70,12 @@
     
     "notify_missing-perms-encrypted_name": "Verschlüsselter Funk",
     "notify_missing-perms-encrypted_desc": "Du kannst nicht verschlüsselt funken!",
+
+    "notify_unstuck-error_name": "Ungültiger Unstuck",
+    "notify_unstuck-error-cooldown_desc": "Du bist derzeitig noch auf Abklingzeit!",
+    "notify_unstuck-error-invalid_desc": "Du scheinst nirgendwo festzustecken.",
+    "notify_unstuck_name": "Unstuck",
+    "notify_unstuck-start_desc": "Du hast 3 Sekunden um dich zu befreien!",
     
     "notify_disallowed-suicide_name": "Anti-Selbstmod",
     "notify_disallowed-suicide_desc": "Du kannst dich nicht umbringen!",
