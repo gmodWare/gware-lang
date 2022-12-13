@@ -83,14 +83,14 @@
     "notify_vote-missing-fields_name": "Missing Fields",
     "notify_vote-missing-fields_desc": "You havent filled out all fields!",
     
-    "notify_vote-success_name": "Vote Successfull",
+    "notify_vote-success_name": "Vote Successful",
     "notify_vote-success_desc": "You have successfully started a vote!",
     
     "notify_jobsetter-created_name": "Job Spawn Setter",
     "notify_jobsetter-created_desc": "You've successfully created %s!",
     
     "notify_jobsetter-select-npc_name": "Selection Missing",
-    "notify_jobsetter-select-npc_desc": "You need to select a NPC!",
+    "notify_jobsetter-select-npc_desc": "You need to select an NPC!",
     
     "notify_jobsetter-select-jobs_name": "Selection Missing",
     "notify_jobsetter-select-jobs_desc": "You need to select jobs!",
@@ -102,5 +102,16 @@
     "notify_jobsetter-spawn-added_desc": "Selected jobs are now spawning at %s!",
     
     "notify_jobsetter-deleted_name": "Spawn Deleted",
-    "notify_jobsetter-deleted_desc": "You've successfully deleted %s!"
+    "notify_jobsetter-deleted_desc": "You've successfully deleted %s!",
+    
+    
+    "command_act": "Act",
+    "command_decode": "Decode",
+    "command_comms": "Comms",
+    "command_ooc": "OOC",
+    "command_looc": "Local OOC",
+    "command_roll": "Roll",
+    "command_encrypted-comms": "Encrypted Comms",
+    "command_medic_act": "Medic Act",
+    "command_advert": "Advert"
 }
