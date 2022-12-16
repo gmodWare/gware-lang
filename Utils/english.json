@@ -129,6 +129,7 @@
     "vote_multiple-choice": "Choices To Select",
     "vote_choice": "Possible Choice",
     "vote_add-choice": "Add Choice",
-    "vote_submit": "Submit"
+    "vote_submit": "Submit",
+    "vote_winner": "has won"
     
 }
