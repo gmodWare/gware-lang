@@ -129,5 +129,6 @@
     "vote_multiple-choice": "Antwortmöglichkeiten",
     "vote_choice": "Anwort",
     "vote_add-choice": "Antwort hinzufügen",
-    "vote_submit": "Umfrage senden"
+    "vote_submit": "Umfrage senden",
+    "vote_winner": "hat gewonnen"
 }
