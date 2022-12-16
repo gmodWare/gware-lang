@@ -77,7 +77,7 @@
     "notify_unstuck_name": "Unstuck",
     "notify_unstuck-start_desc": "Du hast 3 Sekunden um dich zu befreien!",
     
-    "notify_disallowed-suicide_name": "Anti-Selbstmod",
+    "notify_disallowed-suicide_name": "Anti-Selbstmord",
     "notify_disallowed-suicide_desc": "Du kannst dich nicht umbringen!",
     
     "notify_no-permissions_name": "Fehlende Berechtigungen",
