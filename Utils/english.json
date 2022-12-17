@@ -120,6 +120,7 @@
     "command_encrypted-comms": "Encrypted Comms",
     "command_medic_act": "Medic Act",
     "command_advert": "Advert",
+    "command_roll": "%s has rolled a %u.",
     
     
     "general_to": "to",
