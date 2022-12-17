@@ -120,6 +120,7 @@
     "command_encrypted-comms": "Verschl. Comms",
     "command_medic_act": "Medic Akt",
     "command_advert": "Advert",
+    "command_roll": "%s hat eine %u gewürfelt.",
     
     
     "general_to": "an",
