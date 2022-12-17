@@ -133,5 +133,16 @@
     "vote_submit": "Submit",
     "vote_winner": "has won",
     "vote_winner_none": "Nobody has voted"
+        
+    
+    "tool_name": "DarkRP Job Spawn Setter",
+    "tool_desc": "Set the spawns of a DarkRP Job",
+    "tool_leftclick": "Spawn a NPC and give him a name",
+    "tool_choose-name": "Choose a name for the NPC",
+    "tool_spawn": "Spawn",
+    "tool_abort": "Aboort",
+    "tool_add-jobs": "Add Job",
+    "tool_delete-jobs": "Delete Job",
+    "tool_delete-npc": "Delete selected NPC"
     
 }
