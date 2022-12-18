@@ -118,7 +118,7 @@
     "command_looc": "Local OOC",
     "command_roll": "Roll",
     "command_roll_desc": "%s has rolled a %u.",
-    "command_encrypted-comms": "Encrypted Comms",
+    "command_encrypted-comms": "Encrypted",
     "command_mact": "Medic Act",
     "command_advert": "Advert",
     
