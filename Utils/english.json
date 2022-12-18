@@ -126,6 +126,7 @@
     "general_to": "to",
     
     
+    "gware_vote": "Vote",
     "vote_question": "Enter a Question...", 
     "vote_multiple-choice": "Choices To Select",
     "vote_choice": "Possible Choice",
@@ -140,7 +141,7 @@
     "tool_leftclick": "Spawn a NPC and give him a name",
     "tool_choose-name": "Choose a name for the NPC",
     "tool_spawn": "Spawn",
-    "tool_abort": "Aboort",
+    "tool_abort": "Abort",
     "tool_add-jobs": "Add Job",
     "tool_delete-jobs": "Delete Job",
     "tool_delete-npc": "Delete selected NPC"
