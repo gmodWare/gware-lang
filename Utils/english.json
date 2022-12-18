@@ -121,12 +121,12 @@
     "command_encrypted-comms": "Encrypted",
     "command_mact": "Medic Act",
     "command_advert": "Advert",
+    "command_vote": "Vote",
     
     
     "general_to": "to",
     
     
-    "gware_vote": "Vote",
     "vote_question": "Enter a Question...", 
     "vote_multiple-choice": "Choices To Select",
     "vote_choice": "Possible Choice",
