@@ -119,7 +119,7 @@
     "command_roll": "Würfel",
     "command_roll_desc": "%s hat eine %u gewürfelt.",
     "command_encrypted-comms": "Verschl. Comms",
-    "command_medic_act": "Medic Akt",
+    "command_mact": "Medic Akt",
     "command_advert": "Advert",
 
     
