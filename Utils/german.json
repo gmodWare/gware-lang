@@ -81,7 +81,7 @@
     "notify_disallowed-suicide_desc": "Du kannst dich nicht umbringen!",
     
     "notify_no-permissions_name": "Fehlende Berechtigungen",
-    "notify_no-permissions_desc": "Du besitzt nicht die benöntigten Berichtigungen das zu tun",
+    "notify_no-permissions_desc": "Du besitzt nicht die benötigten Berichtigungen das zu tun",
     
     "notify_max-vote-answers_name": "Maximale Auswahlmöglichkeiten erreicht",
     "notify_max-vote-answers_desc": "Du kannst keine weiteren Auswahlmöglichkeiten zu dieser Abstimmung hinzufügen",
