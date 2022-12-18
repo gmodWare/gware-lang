@@ -115,7 +115,7 @@
     "command_decode": "Entschlüsselt",
     "command_comms": "Funk",
     "command_ooc": "OOC",
-    "command_looc": "Lokaler OOC",
+    "command_looc": "LOOC",
     "command_roll": "Würfel",
     "command_roll_desc": "%s hat eine %u gewürfelt.",
     "command_encrypted-comms": "Verschl. Comms",
