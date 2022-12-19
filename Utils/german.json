@@ -86,6 +86,9 @@
     "notify_max-vote-answers_name": "Maximale Auswahlmöglichkeiten erreicht",
     "notify_max-vote-answers_desc": "Du kannst keine weiteren Auswahlmöglichkeiten zu dieser Abstimmung hinzufügen",
     
+    "notify_min-vote-answers_name": "Minimale Auswahlmöglichkeiten erreicht",
+    "notify_min-vote-answers_desc": "Du kannst keine weiteren Auswahlmöglichkeiten löschen!",
+    
     "notify_vote-missing-fields_name": "Fehlende Felder",
     "notify_vote-missing-fields_desc": "Du hast nicht alle Felder ausgefüllt",
     
@@ -131,6 +134,7 @@
     "vote_multiple-choice": "Antwortmöglichkeiten",
     "vote_choice": "Anwort",
     "vote_add-choice": "Antwort hinzufügen",
+    "vote_remove-choice": "Antwort löschen",
     "vote_submit": "Umfrage senden",
     "vote_winner": "hat gewonnen",
     "vote_winner_none": "Niemand hat abgestimmt",
