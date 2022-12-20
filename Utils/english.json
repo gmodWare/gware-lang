@@ -125,6 +125,9 @@
     "command_mact": "Medic Act",
     "command_advert": "Advert",
     "command_vote": "Vote",
+    "command_me": "Me",
+    "command_it": "It",
+    "command_unstuck": "Unstuck",
     "commands_desc": "Deactivate the command",
     
     
