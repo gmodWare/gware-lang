@@ -1,0 +1,156 @@
+{
+    "tab_options": "Options",
+    "tab_vote": "Vote",
+    "tab_commands": "Commandes",
+    
+    
+    "setting_language_name": "Langue",
+    "setting_language_desc": "Sélectionnez la langue souhaitée pour l'interface utilisateur",
+    
+    "setting_npc-weapon-drop_name": "Drop d'arme des PNJ",
+    "setting_npc-weapon-drop_desc": "Désactiver les PNJ larguant des armes à la mort",
+
+    "setting_toolgun-sounds_name": "Sons du pistolet à outils",
+    "setting_toolgun-sounds_desc": "Désactive les sons du pistolet à outils.",
+
+    "setting_toolgun-effects_name": "Effets du pistolet à outils",
+    "setting_toolgun-effects_desc": "Désactive les effets du pistolet à outils.",
+
+    "setting_auto-cloak_name": "Cloak automatique en Noclip",
+    "setting_auto-cloak_desc": "Active/Désactive le cloak automatique en Noclip",
+
+    "setting_killfeed_name": "Cacher le Killfeed",
+    "setting_killfeed_desc": "Empêche l'affichage du killfeed.",
+
+    "setting_suicide_name": "Désactiver le suicide",
+    "setting_suicide_desc": "Désactiver la commande de suicide ?",
+
+    "setting_player-weapon-drop_name": "Drop d'armes de joueurs",
+    "setting_player-weapon-drop_desc": "Désactive le drop des armes pour les joueurs.",
+
+    "setting_auto-workshop-dl_name": "Collection Workshop",
+    "setting_auto-workshop-dl_desc": "Fait en sorte que tous les joueurs téléchargent la collection lors de la connexion au serveur.",
+
+    "setting_billboards_name": "Panneau publicitaire DarkRP",
+    "setting_billboards_desc": "Désactive les panneaux publicitaires DarkRP de '/advert'.",
+
+    "setting_family-sharing_name": "Partage familial",
+    "setting_family-sharing_desc": "Exclusion de tous les joueurs utilisant le partage familial de Steam",
+
+    "setting_voice-panels_name": "Panneaux vocaux",
+    "setting_voice-panels_desc": "Masque les panneaux vocaux en bas à droite",
+
+    "setting_spawnmenu_name": "Spawnmenu",
+    "setting_spawnmenu_desc": "Ajoute une permission SAM/CAMI pour accéder au spawnmenu.",
+    
+    "setting_contextmenu_name": "Menu contextuel",
+    "setting_contextmenu_desc": "Ajoute une permission SAM/CAMI pour accéder au menu contextuel.",
+
+    "setting_encrypted-comms_name": "Comms cryptés",
+    "setting_encrypted-comms_desc": "Quels emplois peuvent utiliser des communications cryptées.",
+    
+    "setting_decode_name": "Décoder les comms cryptées",
+    "setting_decode_desc": "Quels emplois peuvent décoder des communications cryptées.",
+    
+    
+    "notify_decode_name": "Comms cryptés",
+    "notify_decode_desc": "Vous ne pouvez pas décoder les communications cryptées !",
+    
+    "notify_invalid-decode_name": "Décodage invalide",
+    "notify_invalid-decode_desc": "Exemple de décodage : '/decode 20 68 61 6c 6c 6'.",
+    
+    "notify_invalid-comms_name": "Comms invalides",
+    "notify_invalid-comms_desc": "Utilisation des communications : /comms Commandant Rex* Où êtes-vous ?",
+    
+    "notify_invalid-encrypted-comms_name": "Comms cryptés invalides",
+    "notify_invalid-encrypted-ecomms_desc": "Utilisation des communications : /ecomms Commandant Rex* Où êtes-vous ?",
+    
+    "notify_empty_name": "Message non valide",
+    "notify_empty_desc": "Votre message ne peut pas être vide !",
+    
+    "notify_missing-perms-encrypted_name": "Comms cryptés",
+    "notify_missing-perms-encrypted_desc": "Vous ne pouvez pas utiliser les communications cryptées !",
+
+    "notify_unstuck-error_name": "Débloquage invalide",
+    "notify_unstuck-error-cooldown_desc": "Vous êtes actuellement en période d'attente !",
+    "notify_unstuck-error-invalid_desc": "Vous semblez ne pas être coincé.",
+    "notify_unstuck_name": "Débloquage",
+    "notify_unstuck-start_desc": "Vous avez 3 secondes pour vous décoincer !",
+    
+    "notify_disallowed-suicide_name": "Anti-Suicide",
+    "notify_disallowed-suicide_desc": "Vous ne pouvez pas vous suicider !",
+    
+    "notify_no-permissions_name": "Permissions manquantes",
+    "notify_no-permissions_desc": "Vous n'avez pas assez de permissions pour faire cela !",
+    
+    "notify_max-vote-answers_name": "Choix maximum atteints",
+    "notify_max-vote-answers_desc": "Vous ne pouvez pas ajouter d'autres choix à ce vote !",
+    
+    "notify_min-vote-answers_name": "Choix minimaux atteints",
+    "notify_min-vote-answers_desc": "Vous ne pouvez pas retirer plus de choix de ce vote!",
+    
+    "notify_vote-missing-fields_name": "Champs manquants",
+    "notify_vote-missing-fields_desc": "Vous n'avez pas rempli tous les champs !",
+    
+    "notify_vote-success_name": "Vote réussi",
+    "notify_vote-success_desc": "Vous avez lancé un vote avec succès !",
+    
+    "notify_jobsetter-created_name": "Job Spawn Setter",
+    "notify_jobsetter-created_desc": "Vous avez créé avec succès %s!",
+    
+    "notify_jobsetter-select-npc_name": "Sélection manquante",
+    "notify_jobsetter-select-npc_desc": "Vous devez sélectionner un PNJ !",
+    
+    "notify_jobsetter-select-jobs_name": "Sélection manquante",
+    "notify_jobsetter-select-jobs_desc": "Vous devez sélectionner les emplois !",
+    
+    "notify_jobsetter-removed-spawns_name": "Spawns supprimées",
+    "notify_jobsetter-removed-spawns_desc": "Les emplois ne spawn plus dans %s!",
+    
+    "notify_jobsetter-spawn-added_name": "Spawn créé",
+    "notify_jobsetter-spawn-added_desc": "Les emplois sélectionnés sont maintenant créés dans %s!",
+    
+    "notify_jobsetter-deleted_name": "Spawn supprimé",
+    "notify_jobsetter-deleted_desc": "Vous avez supprimé avec succès %s!",
+    
+    
+    "command_act": "Act",
+    "command_decode": "Décoder",
+    "command_comms": "Comms",
+    "command_ooc": "OOC",
+    "command_looc": "Local OOC",
+    "command_roll": "Roll",
+    "command_roll_desc": "%s a obtenu un %u.",
+    "command_encrypted-comms": "Chiffré",
+    "command_mact": "Act Médical",
+    "command_advert": "Annonce",
+    "command_vote": "Vote",
+    "command_me": "Me",
+    "command_it": "It",
+    "command_unstuck": "Débloquage",
+    "commands_desc": "Désactiver la commande",
+    
+    
+    "general_to": "à",
+    
+    
+    "vote_question": "Saisir une question...", 
+    "vote_multiple-choice": "Choix à sélectionner",
+    "vote_choice": "Choix possibles",
+    "vote_add-choice": "Ajouter un choix",
+    "vote_remove-choice": "Supprimer un choix",
+    "vote_submit": "Soumettre",
+    "vote_winner": "a gagné",
+    "vote_winner_none": "Personne n'a voté",
+        
+    
+    "tool_name": "DarkRP Job Spawn Setter",
+    "tool_desc": "Configurer les spawns d'un job DarkRP",
+    "tool_leftclick": "Créer un PNJ et lui donner un nom.",
+    "tool_choose-name": "Choisissez un nom pour le PNJ",
+    "tool_spawn": "Spawn",
+    "tool_abort": "Abandonner",
+    "tool_add-jobs": "Ajouter un Job",
+    "tool_delete-jobs": "Supprimer un Job",
+    "tool_delete-npc": "Supprimer le PNJ sélectionné"
+}
