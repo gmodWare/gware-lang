@@ -52,8 +52,8 @@
     "setting_decode_name": "Nachrichten Entschlüsseln",
     "setting_decode_desc": "Welche Jobs können verschlüsselte Nachrichten entschlüsseln.",
 
-    "setting_darkrp-owner-hud_name": "Door Owner verstecken",
-    "setting_darkrp-owner-hud_desc": "Verstecke Informationen über Türen.",
+    "setting_hide-door-owner_name": "Door Owner verstecken",
+    "setting_hide-door-owner_desc": "Verstecke Informationen über Türen.",
 
     "setting_hide-fpp-owner_name": "Prop Owner verstecken",
     "setting_hide-fpp-owner_desc": "Verstecke den Besitzer von Props.",
