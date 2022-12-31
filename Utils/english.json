@@ -52,6 +52,12 @@
     "setting_decode_name": "Decode Encrypted Comms",
     "setting_decode_desc": "Which jobs can decode encrypted comms.",
     
+    "setting_darkrp-owner-hud_name": "Hide Door Owner",
+    "setting_darkrp-owner-hud_desc": "Hides the door info.",
+
+    "setting_hide-fpp-owner_name": "Hide Prop Owner",
+    "setting_hide-fpp-owner_desc": "Hides the owner of the prop your looking at.",
+
     
     "notify_decode_name": "Encrypted Comms",
     "notify_decode_desc": "You cannot decode encrypted comms!",
