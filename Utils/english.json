@@ -7,16 +7,16 @@
     "setting_language_name": "Language",
     "setting_language_desc": "Select your disred language for the user interface",
     
-    "setting_npc-weapon-drop_name": "NPC Weapon Drop",
+    "setting_npc-weapon-drop_name": "Disable NPC Weapon Drop",
     "setting_npc-weapon-drop_desc": "Deactivate NPCs dropping weapons on death",
 
-    "setting_toolgun-sounds_name": "Toolgun Sounds",
+    "setting_toolgun-sounds_name": "Disable Toolgun Sounds",
     "setting_toolgun-sounds_desc": "Disables the toolgun sounds.",
 
-    "setting_toolgun-effects_name": "Toolgun Effects",
+    "setting_toolgun-effects_name": "Disable Toolgun Effects",
     "setting_toolgun-effects_desc": "Disables the toolgun effects.",
 
-    "setting_auto-cloak_name": "Automatic Cloak on Noclip",
+    "setting_auto-cloak_name": "Enable Automatic Cloak on Noclip",
     "setting_auto-cloak_desc": "Toggles cloak when entering or exiting noclip",
 
     "setting_killfeed_name": "Hide Killfeed",
@@ -25,28 +25,28 @@
     "setting_suicide_name": "Disable Suicide",
     "setting_suicide_desc": "Disallowes the suicide command?",
 
-    "setting_player-weapon-drop_name": "Player Weapon Drop",
+    "setting_player-weapon-drop_name": "Disable Player Weapon Drop",
     "setting_player-weapon-drop_desc": "Disables weapon drop for players.",
 
-    "setting_auto-workshop-dl_name": "Workshop Collection",
+    "setting_auto-workshop-dl_name": "Enable Workshop Collection",
     "setting_auto-workshop-dl_desc": "Makes all players download the collection on server join",
 
-    "setting_billboards_name": "DarkRP Billboard",
+    "setting_billboards_name": "Disable DarkRP Billboard",
     "setting_billboards_desc": "Disables DarkRP billboards from '/advert'",
 
-    "setting_family-sharing_name": "Family Sharing",
+    "setting_family-sharing_name": "Disable Family Sharing",
     "setting_family-sharing_desc": "Kicks all players using steam family sharing",
 
-    "setting_voice-panels_name": "Voice Panels",
+    "setting_voice-panels_name": "Disable Voice Panels",
     "setting_voice-panels_desc": "Hides voice panels on the bottom right",
 
-    "setting_spawnmenu_name": "Spawnmenu",
+    "setting_spawnmenu_name": "Restrict Spawnmenu",
     "setting_spawnmenu_desc": "Adds a SAM/CAMI permission to access the spawnmenu",
     
-    "setting_contextmenu_name": "Contextmenu",
+    "setting_contextmenu_name": "Restrict Contextmenu",
     "setting_contextmenu_desc": "Adds a SAM/CAMI permission to access the contextmenu",
 
-    "setting_encrypted-comms_name": "Encrypted Comms",
+    "setting_encrypted-comms_name": "Restrict Encrypted Comms",
     "setting_encrypted-comms_desc": "Which jobs can use encrypted comms.",
     
     "setting_decode_name": "Decode Encrypted Comms",
@@ -57,6 +57,9 @@
 
     "setting_hide-fpp-owner_name": "Hide Prop Owner",
     "setting_hide-fpp-owner_desc": "Hides the owner of the prop your looking at.",
+    
+    "setting_disable-name-completion__name": "Disable name autocomplete",
+    "setting_disable-name-completion__desc": "Disables the name autocomplete when using comms.",
 
     
     "notify_decode_name": "Encrypted Comms",
