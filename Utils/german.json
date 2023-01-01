@@ -7,37 +7,37 @@
     "setting_language_name": "Sprache",
     "setting_language_desc": "Wähle deine gewünschte Sprache für die Benutzeroberfläche aus.",
     
-    "setting_npc-weapon-drop_name": "NPC Waffen Drop",
+    "setting_npc-weapon-drop_name": "Deaktiviert NPC Waffen Dron",
     "setting_npc-weapon-drop_desc": "Waffendrop von NPCs deaktivieren?",
 
-    "setting_toolgun-sounds_name": "Toolgun Geräusche",
+    "setting_toolgun-sounds_name": "Deaktiviert Toolgun Geräusche",
     "setting_toolgun-sounds_desc": "Toolgun Geräusche deaktiviern?",
 
-    "setting_toolgun-effects_name": "Toolgun Effekte",
+    "setting_toolgun-effects_name": "Deaktiviert Toolgun Effekte",
     "setting_toolgun-effects_desc": "Toolgun Effekte deaktivieren?",
 
-    "setting_auto-cloak_name": "Automatischer Cloak bei Noclip",
+    "setting_auto-cloak_name": "Aktiviert Automatischer Cloak bei Noclip",
     "setting_auto-cloak_desc": "Automatisch Cloaken bei Noclip?",
 
     "setting_killfeed_name": "Killfeed ausblenden",
     "setting_killfeed_desc": "Sollen Spielertode ausgeblendet werden?",
 
-    "setting_suicide_name": "Selbstmord",
+    "setting_suicide_name": "Deaktiviert Selbstmord",
     "setting_suicide_desc": "'Kill' in der Konsole verbieten?",
 
-    "setting_player-weapon-drop_name": "Spieler Waffen Drop",
+    "setting_player-weapon-drop_name": "Deaktviert Spieler Waffen Drop",
     "setting_player-weapon-drop_desc": "Waffen Drop für Spieler deaktivieren?",
 
-    "setting_auto-workshop-dl_name": "Automatischer Workshop Download",
+    "setting_auto-workshop-dl_name": "Aktiviert Automatischen Workshop Download",
     "setting_auto-workshop-dl_desc": "Sollen alle User bei joinen die Kollektion automatisch downloaden?",
 
     "setting_billboards_name": "DarkRP Tafeln",
     "setting_billboards_desc": "DarkRP Tafeln bei '/advert' deaktivieren?",
 
-    "setting_family-sharing_name": "Family Sharing",
+    "setting_family-sharing_name": "Deaktiviert Family Sharing",
     "setting_family-sharing_desc": "Sollen User die Family-Sharing benutzen, sofort gekickt werden?",
 
-    "setting_voice-panels_name": "Sprachanzeige",
+    "setting_voice-panels_name": "Deaktiviert Sprachanzeige",
     "setting_voice-panels_desc": "Sprachanzeige rechts unten deaktiveren?",
 
     "setting_spawnmenu_name": "Spawnmenu",
@@ -57,6 +57,9 @@
 
     "setting_hide-fpp-owner_name": "Prop Owner verstecken",
     "setting_hide-fpp-owner_desc": "Verstecke den Besitzer von Props.",
+    
+    "setting_disable-name-completion__name": "Namensvervollständigung deaktivieren",
+    "setting_disable-name-completion__desc": "Deaktviert die Namensvervollständigung im Funk.",
     
     
     "notify_decode_name": "Verschlüsselter Funk",
