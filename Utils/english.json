@@ -58,8 +58,8 @@
     "setting_hide-fpp-owner_name": "Hide Prop Owner",
     "setting_hide-fpp-owner_desc": "Hides the owner of the prop your looking at.",
     
-    "setting_disable-name-completion__name": "Disable name autocomplete",
-    "setting_disable-name-completion__desc": "Disables the name autocomplete when using comms.",
+    "setting_disable-name-completion_name": "Disable name autocomplete",
+    "setting_disable-name-completion_desc": "Disables the name autocomplete when using comms.",
 
     
     "notify_decode_name": "Encrypted Comms",
