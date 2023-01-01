@@ -52,6 +52,9 @@
     "setting_decode_name": "Décoder les comms cryptées",
     "setting_decode_desc": "Quels emplois peuvent décoder des communications cryptées.",
     
+    "setting_disable-name-completion__name": "Désactiver la saisie semi-automatique du nom",
+    "setting_disable-name-completion__desc": "Désactive la saisie semi-automatique du nom lors de l'utilisation des communications.",
+    
     
     "notify_decode_name": "Comms cryptés",
     "notify_decode_desc": "Vous ne pouvez pas décoder les communications cryptées !",
