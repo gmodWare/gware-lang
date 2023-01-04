@@ -1,0 +1,165 @@
+{
+    "tab_options": "seçenekler",
+    "tab_vote": "Anket",
+    "tab_commands": "emretmek",
+    
+    
+    "setting_language_name": "dil",
+    "setting_language_desc": "Kullanıcı arayüzü için istediğiniz dili seçin.",
+    
+    "setting_npc-weapon-drop_name": "NPC engelli silahlar dron",
+    "setting_npc-weapon-drop_desc": "NPC'lerden silah düşürmeyi devre dışı bırak?",
+
+    "setting_toolgun-sounds_name": "Araç tabancası seslerini devre dışı bırakır",
+    "setting_toolgun-sounds_desc": "Alet tabancası seslerini devre dışı bırak?",
+
+    "setting_toolgun-effects_name": "Araç tabancası efektlerini devre dışı bırakır",
+    "setting_toolgun-effects_desc": "Araç tabancası efektlerini devre dışı bırak?",
+
+    "setting_auto-cloak_name": "Aktiviert Automatischer Cloak bei Noclip",
+    "setting_auto-cloak_desc": "Automatisch Cloaken bei Noclip?",
+
+    "setting_killfeed_name": "Killfeed beslemesini gizle",
+    "setting_killfeed_desc": "Oyuncu ölümleri gizlenmeli mi??",
+
+    "setting_suicide_name": "İntiharı devre dışı bırakır",
+    "setting_suicide_desc": "'Konsolda öldürmeyi yasakla?",
+
+    "setting_player-weapon-drop_name": "Oyuncunun silah bırakmasını devre dışı bırakır",
+    "setting_player-weapon-drop_desc": "Oyuncular için silah düşürmeyi devre dışı bırak?",
+
+    "setting_auto-workshop-dl_name": "Otomatik atölye indirmeyi etkinleştirir",
+    "setting_auto-workshop-dl_desc": "Tüm kullanıcılar katılırken koleksiyonu otomatik olarak indirmeli mi??",
+
+    "setting_billboards_name": "DarkRP panelleri?",
+    "setting_billboards_desc": "'/advert' konumunda DarkRP panellerini devre dışı bırakın?",
+
+    "setting_family-sharing_name": "Aile paylaşımını devre dışı bırakır",
+    "setting_family-sharing_desc": "Kullanıcılar aile paylaşımını kullanacaksa hemen atılacaklar?",
+
+    "setting_voice-panels_name": "Ses gösterimini devre dışı bırakır",
+    "setting_voice-panels_desc": "Sağ alt köşedeki sesli ekranı devre dışı bırakın?",
+
+    "setting_spawnmenu_name": "yumurtlama menüsü",
+    "setting_spawnmenu_desc": "Yumurtlama menüsünü açmak için izin gereklidir?",
+    
+    "setting_contextmenu_name": "bağlam menüsü",
+    "setting_contextmenu_desc": "C Menüsünü açmak için izin gereklidir?",
+
+    "setting_encrypted-comms_name": "Şifreli radyo",
+    "setting_encrypted-comms_desc": "Kıvılcımları kim karıştırabilir?",
+    
+    "setting_decode_name": "Mesajların Şifresini Çöz",
+    "setting_decode_desc": "Hangi işler şifrelenmiş mesajların şifresini çözebilir?.",
+
+    "setting_hide-door-owner_name": "Kapı Sahibini Gizle",
+    "setting_hide-door-owner_desc": "Kapılar hakkındaki bilgileri gizle.",
+
+    "setting_hide-fpp-owner_name": "Nesne Sahibini Gizle",
+    "setting_hide-fpp-owner_desc": "Nesnelerin sahibini gizle.",
+    
+    "setting_disable-name-completion_name": "Ad tamamlamayı devre dışı bırak",
+    "setting_disable-name-completion_desc": "Radyoda ad tamamlamayı devre dışı bırakır.",
+    
+    
+    "notify_decode_name": "Şifreli radyo",
+    "notify_decode_desc": "Şifreli radyo kullanamazsınız!",
+    
+    "notify_invalid-decode_name": "geçersiz kod çözme",
+    "notify_invalid-decode_desc": "Kod çözme örneği: '/decode 20 68 61 6c 6c 6'",
+    
+    "notify_invalid-comms_name": "Geçersiz radyo",
+    "notify_invalid-comms_desc": "Funk Örnek: /funk Komutan Rex* Şimdi görevdeyim.",
+    
+    "notify_invalid-encrypted-comms_name": "Geçersiz şifreli radyo",
+    "notify_invalid-encrypted-ecomms_desc": "Şifreli telsiz Örnek: /vfunk Komutan Rex* Şu anda görevdeyim",
+    
+    "notify_empty_name": "geçersiz mesaj",
+    "notify_empty_desc": "Boş mesaj gönderemezsiniz!",
+    
+    "notify_missing-perms-encrypted_name": "Şifreli radyo",
+    "notify_missing-perms-encrypted_desc": "Şifreli iletemezsiniz!",
+
+    "notify_unstuck-error_name": "Geçersiz önemsiz",
+    "notify_unstuck-error-cooldown_desc": "Şu anda bekleme süresindesiniz!",
+    "notify_unstuck-error-invalid_desc": "Hiçbir yere sıkışmış görünmüyorsun.",
+    "notify_unstuck_name": "çirkin",
+    "notify_unstuck-start_desc": "Kendini özgür bırakmak için 3 saniyen var!",
+    
+    "notify_disallowed-suicide_name": "intihar karşıtı",
+    "notify_disallowed-suicide_desc": "kendini öldüremezsin!",
+    
+    "notify_no-permissions_name": "Eksik izinler",
+    "notify_no-permissions_desc": "Bunu yapmak için gerekli düzeltmelere sahip değilsiniz",
+    
+    "notify_max-vote-answers_name": "Maksimum seçeneğe ulaşıldı",
+    "notify_max-vote-answers_desc": "Bu ankete daha fazla seçenek ekleyemezsiniz",
+    
+    "notify_min-vote-answers_name": "Minimum seçeneğe ulaşıldı",
+    "notify_min-vote-answers_desc": "Daha fazla seçeneği silemezsiniz!",
+    
+    "notify_vote-missing-fields_name": "Eksik alanlar",
+    "notify_vote-missing-fields_desc": "her alanı doldurmadın",
+    
+    "notify_vote-success_name": "Oylama başarılı",
+    "notify_vote-success_desc": "Bir anketi başarıyla başlattınız.",
+    
+    "notify_jobsetter-created_name": "İş yumurtlama ayarlayıcısı",
+    "notify_jobsetter-created_desc": "%s'yi başarıyla oluşturdunuz!",
+    
+    "notify_jobsetter-select-npc_name": "Auswahl fehlt",
+    "notify_jobsetter-select-npc_desc": "Du musst einen NPC auswählen!",
+    
+    "notify_jobsetter-select-jobs_name": "seçim eksik",
+    "notify_jobsetter-select-jobs_desc": "işleri seçmek zorundasın!",
+    
+    "notify_jobsetter-removed-spawns_name": "Kaldırılan yumurtlamalar",
+    "notify_jobsetter-removed-spawns_desc": "İşler artık %s konumunda ortaya çıkmıyor!",
+    
+    "notify_jobsetter-spawn-added_name": "Spawn oluşturuldu",
+    "notify_jobsetter-spawn-added_desc": "Seçilen işler şimdi %s'de doğacak!",
+    
+    "notify_jobsetter-deleted_name": "Spawn kaldırıldı",
+    "notify_jobsetter-deleted_desc": "%s'yi başarıyla sildiniz!",
+    
+    
+    "command_act": "davranmak",
+    "command_decode": "şifresi çözülmüş",
+    "command_comms": "radyo",
+    "command_ooc": "OOC",
+    "command_looc": "LOOC",
+    "command_roll": "Zar",
+    "command_roll_desc": "%s bir %u attı.",
+    "command_encrypted-comms": "Şifreli İletişim",
+    "command_mact": "doktor eylemi",
+    "command_advert": "reklam",
+    "command_vote": "anket",
+    "command_me": "Ben",
+    "command_it": "BT",
+    "command_unstuck": "çirkin",
+    "commands_desc": "Dkomutu devre dışı bırakır",
+
+    
+    "general_to": "üzerinde",
+    
+    
+    "vote_question": "Soru", 
+    "vote_multiple-choice": "Cevap seçenekleri",
+    "vote_choice": "Cevap",
+    "vote_add-choice": "Cevap ekle",
+    "vote_remove-choice": "Cevap sil",
+    "vote_submit": "Anket gönder",
+    "vote_winner": "kazandı",
+    "vote_winner_none": "Kimse kazanmadı",
+        
+    
+    "tool_name": "DarkRP Job Spawn Ayarlayıcı.",
+    "tool_desc": "Bir DarkRP işinin ortaya çıkışlarını ayarlayın.",
+    "tool_leftclick": "Bir NPC oluşturun ve bir isim verin.",
+    "tool_choose-name": "NPC'niz için bir isim seçin ve spawn edin.",
+    "tool_spawn": "Spawn",
+    "tool_abort": "İptal",
+    "tool_add-jobs": "Job ekle",
+    "tool_delete-jobs": "Job sil",
+    "tool_delete-npc": "Seçili NPC'yi sil"
+}
