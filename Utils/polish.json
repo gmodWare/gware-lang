@@ -1,0 +1,166 @@
+{
+    "tab_options": "Opcje",
+    "tab_vote": "Głosuj",
+    "tab_commands": "Komendy",
+    
+    
+    "setting_language_name": "Język",
+    "setting_language_desc": "Wybierz język dominujący dla panelu",
+    
+    "setting_npc-weapon-drop_name": "Wyłącz wypadanie broni NPC",
+    "setting_npc-weapon-drop_desc": "Wyłącza wypadanie broni NPC po ich śmierci",
+
+    "setting_toolgun-sounds_name": "Wyłącz dźwięki toolguna.",
+    "setting_toolgun-sounds_desc": "Wyłącza dźwięki wydawane przez toolgun.",
+
+    "setting_toolgun-effects_name": "Wyłącz efekty toolguna",
+    "setting_toolgun-effects_desc": "Wyłącza efekty toolguna",
+
+    "setting_auto-cloak_name": "Włącz automatyczną niewidzialność przy noclip",
+    "setting_auto-cloak_desc": "Włącza automatycznie niewidzialność podczas noclipa",
+
+    "setting_killfeed_name": "Wyłącz hud zabójstw",
+    "setting_killfeed_desc": "Przestaje wyświetlać hud zabójstw w rogu ekranu.",
+
+    "setting_suicide_name": "Wyłącz samobójstwo",
+    "setting_suicide_desc": "Wyłącza komendę samobójstwa",
+
+    "setting_player-weapon-drop_name": "Wyłącz wyrzucanie broni graczy",
+    "setting_player-weapon-drop_desc": "Wyłącza wyrzucanie broni przez graczy.",
+
+    "setting_auto-workshop-dl_name": "Włącz kolekcje workshopa",
+    "setting_auto-workshop-dl_desc": "Użytkownicy automatycznie pobierają paczkę serwera",
+
+    "setting_billboards_name": "Wyłącz podstawowe tablice DarkRP",
+    "setting_billboards_desc": "Wyłącza tablice z komendy '/advert'",
+
+    "setting_family-sharing_name": "Wyłącz Family Sharing",
+    "setting_family-sharing_desc": "Wyrzuca graczy używających Family Sharing",
+
+    "setting_voice-panels_name": "Wyłącz panel głosowy",
+    "setting_voice-panels_desc": "Ukrywa panel czatu głosowego z prawej strony.",
+
+    "setting_spawnmenu_name": "Ogranicz menu tworzenia",
+    "setting_spawnmenu_desc": "Dodaje uprawnienie SAM/CAMI do dostępu do menu tworzenia",
+    
+    "setting_contextmenu_name": "Ogranicz menu kontekstowe",
+    "setting_contextmenu_desc": "Dodaje uprawnienie SAM/CAM do dostępu do menu kontekstowego",
+
+    "setting_encrypted-comms_name": "Ogranicz zaszyfrowaną komunikację",
+    "setting_encrypted-comms_desc": "Które pracę mogą używać szyfrowanej komunikacji.",
+    
+    "setting_decode_name": "Dekoduj zaszyfrowane komunikaty",
+    "setting_decode_desc": "Które pracę mogą deszyfrować komunikacje.",
+    
+    "setting_hide-door-owner_name": "Ukryj właśiciela drzwi",
+    "setting_hide-door-owner_desc": "Kryje informacje o drzwiach.",
+
+    "setting_hide-fpp-owner_name": "Ukryj właściciela przedmiotu",
+    "setting_hide-fpp-owner_desc": "Kryje informacje o przedmiocie",
+    
+    "setting_disable-name-completion_name": "Wyłącz autouzupełnianie nazw",
+    "setting_disable-name-completion_desc": "Wyłącza autouzupełnianie nazwy podczas korzystania z komunikatorów.",
+
+    
+    "notify_decode_name": "Szyfrowane komunikaty",
+    "notify_decode_desc": "Nie możesz dekodować zaszyfrowanych wiadomości!",
+    
+    "notify_invalid-decode_name": "Nieprawidłowe dekodowanie",
+    "notify_invalid-decode_desc": "Przykład dekodowania: '/decode 20 68 61 6c 6c 6'",
+    
+    "notify_invalid-comms_name": "Nieprawidłowe komunikaty",
+    "notify_invalid-comms_desc": "Przykładowa komunikacja: /comms Commander Rex* Where are you?",
+    
+    "notify_invalid-encrypted-comms_name": "Nieprawidłowe zaszyfrowane komunikaty",
+    "notify_invalid-encrypted-ecomms_desc": "Przykładowa komunikacja: /ecomms Commander Rex* Where are you?",
+    
+    "notify_empty_name": "Nieprawidłowa wiadomość",
+    "notify_empty_desc": "Twoja wiadomość nie może być pusta!",
+    
+    "notify_missing-perms-encrypted_name": "Szyfrowane komunikaty",
+    "notify_missing-perms-encrypted_desc": "Nie możesz używać szyfrowanej komunikacji!",
+
+    "notify_unstuck-error_name": "Nieprawidłowy Unstuck",
+    "notify_unstuck-error-cooldown_desc": "Jesteś obecnie na przerwie!",
+    "notify_unstuck-error-invalid_desc": "Wygląda na to że nie jesteś zablokowany.",
+    "notify_unstuck_name": "Unstuck",
+    "notify_unstuck-start_desc": "Masz trzy sekundy by się odblokować!",
+    
+    "notify_disallowed-suicide_name": "Anti-Suicide",
+    "notify_disallowed-suicide_desc": "Nie możesz popełnić samobójstwa!",
+    
+    "notify_no-permissions_name": "Brak permisji",
+    "notify_no-permissions_desc": "Nie masz wystarczających uprawnień, aby to zrobić!",
+    
+    "notify_max-vote-answers_name": "Osiągnięto maksymalną liczbę wyborów",
+    "notify_max-vote-answers_desc": "Nie możesz oddać więcej głosów!",
+    
+    "notify_min-vote-answers_name": "Osiągnięto minimalną liczbę wyborów",
+    "notify_min-vote-answers_desc": "Nie możesz usunąć swojego głosu!",
+    
+    "notify_vote-missing-fields_name": "Brakujące pola",
+    "notify_vote-missing-fields_desc": "Nie wypełniłeś wszystkich pól!",
+    
+    "notify_vote-success_name": "Głosowanie rozpoczęte",
+    "notify_vote-success_desc": "Prawidłowo rozpoczołeś głosowanie!",
+    
+    "notify_jobsetter-created_name": "Miejsce odrodzenia pracy",
+    "notify_jobsetter-created_desc": "Ustawiłeś odrodzenie pracy %s!",
+    
+    "notify_jobsetter-select-npc_name": "Brak zaznaczenia",
+    "notify_jobsetter-select-npc_desc": "Musisz wybrać NPC!",
+    
+    "notify_jobsetter-select-jobs_name": "Brak zaznaczeń",
+    "notify_jobsetter-select-jobs_desc": "Musisz wybrać pracę!",
+    
+    "notify_jobsetter-removed-spawns_name": "Usunięto odrodzenie pracy",
+    "notify_jobsetter-removed-spawns_desc": "Prace nie odradzają się więcej na %s!",
+    
+    "notify_jobsetter-spawn-added_name": "Miejsce odrodzenia stworzone",
+    "notify_jobsetter-spawn-added_desc": "Wybrana praca odradza się na %s!",
+    
+    "notify_jobsetter-deleted_name": "Usunięto odrodzenie pracy",
+    "notify_jobsetter-deleted_desc": "Prawidłowo usunołeś %s!",
+    
+    
+    "command_act": "Act",
+    "command_decode": "Decode",
+    "command_comms": "Comms",
+    "command_ooc": "OOC",
+    "command_looc": "Local OOC",
+    "command_roll": "Roll",
+    "command_roll_desc": "%s wyloswował %u.",
+    "command_encrypted-comms": "Encrypted",
+    "command_mact": "Medic Act",
+    "command_advert": "Advert",
+    "command_vote": "Vote",
+    "command_me": "Me",
+    "command_it": "It",
+    "command_unstuck": "Unstuck",
+    "commands_desc": "Deactivate the command",
+    
+    
+    "general_to": "to",
+    
+    
+    "vote_question": "Wpisz pytanie...", 
+    "vote_multiple-choice": "Wybór do zaznaczenia",
+    "vote_choice": "Możliwy wybór",
+    "vote_add-choice": "Dodaj wybór",
+    "vote_remove-choice": "Usuń wybór",
+    "vote_submit": "Składać",
+    "vote_winner": "wygrał",
+    "vote_winner_none": "Nikt nie zagłosował",
+        
+    
+    "tool_name": "Ustawienie odrodzenia prac DarkRP",
+    "tool_desc": "Ustawia miejsce odrodzenia prac DarkRP",
+    "tool_leftclick": "Stwórz NPC i nadaj mu imię",
+    "tool_choose-name": "Wybierz imię dla NPC",
+    "tool_spawn": "Stwórz",
+    "tool_abort": "Anuluj",
+    "tool_add-jobs": "Dodaj prace",
+    "tool_delete-jobs": "Usuń prace",
+    "tool_delete-npc": "Usuń wybranego NPC"
+    
+}
