@@ -57,6 +57,9 @@
 
     "setting_hide-fpp-owner_name": "Prop Owner verstecken",
     "setting_hide-fpp-owner_desc": "Verstecke den Besitzer von Props.",
+
+    "hide-chat-indicator_name": "Chat Bubble deaktivieren?",
+    "hide-chat-indicator_desc": "Soll man den Chat Indicator beim tippen über dem Kopf sehen?",
     
     "setting_disable-name-completion_name": "Namensvervollständigung deaktivieren",
     "setting_disable-name-completion_desc": "Deaktviert die Namensvervollständigung im Funk.",
