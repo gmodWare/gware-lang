@@ -1,0 +1,169 @@
+{
+    "tab_options": "Opciones",
+    "tab_vote": "Votación",
+    "tab_commands": "Comandos",
+    
+    
+    "setting_language_name": "Lenguaje",
+    "setting_language_desc": "Selecciona tu lenguaje deseado para la interfaz.",
+    
+    "setting_npc-weapon-drop_name": "Desactivar drops de NPCs",
+    "setting_npc-weapon-drop_desc": "Desactiva el drop de armas de los NPCs.",
+
+    "setting_toolgun-sounds_name": "Desactivar sonidos de Toolgun",
+    "setting_toolgun-sounds_desc": "Desactiva los sonidos de la Toolgun.",
+
+    "setting_toolgun-effects_name": "Desactivar efectos de Toolgun",
+    "setting_toolgun-effects_desc": "Desactiva los efectos de la Toolgun.",
+
+    "setting_auto-cloak_name": "Activar Cloak automatico en Noclip",
+    "setting_auto-cloak_desc": "Activa el cloak cuando se usa el noclip.",
+
+    "setting_killfeed_name": "Ocultar Killfeed",
+    "setting_killfeed_desc": "Evita que el Killfeed (historial de muertes) aparezca.",
+
+    "setting_suicide_name": "Desactivar Suicidio",
+    "setting_suicide_desc": "¿Desactivar el comando de suicidio?",
+
+    "setting_player-weapon-drop_name": "Desactivar drops de Jugadores",
+    "setting_player-weapon-drop_desc": "Desactiva el drop de armas de los Jugadores.",
+
+    "setting_auto-workshop-dl_name": "Activar colección de Workshop",
+    "setting_auto-workshop-dl_desc": "Hace que los jugadores se descarguen la colección al entrar al server.",
+
+    "setting_billboards_name": "Desactivar Carteles de DarkRP",
+    "setting_billboards_desc": "Desactiva los carteles de DarkRP al usar '/advert'",
+
+    "setting_family-sharing_name": "Desactivar Prestamo Familiar",
+    "setting_family-sharing_desc": "Expulsa a los jugadores que jueguen con el prestamo familiar de steam",
+
+    "setting_voice-panels_name": "Desactivar Páneles de Voz",
+    "setting_voice-panels_desc": "Oculta los páneles de voz de la esquina inferior derecha",
+
+    "setting_spawnmenu_name": "Restringir Spawnmenu",
+    "setting_spawnmenu_desc": "Añade un permiso SAM/CAMI para acceder al spawnmenu (Q)",
+    
+    "setting_contextmenu_name": "Restringir Contextmenu",
+    "setting_contextmenu_desc": "Añade un permiso SAM/CAMI para acceder al contextmenu (C)",
+
+    "setting_encrypted-comms_name": "Restringir Comms Encriptadas",
+    "setting_encrypted-comms_desc": "Los jobs pueden utilizar las comms encriptadas",
+    
+    "setting_decode_name": "Decodificar Comms Encriptadas",
+    "setting_decode_desc": "Los jobs pueden utilizar las comms encriptadas",
+    
+    "setting_hide-door-owner_name": "Ocultar Dueño de la Puerta",
+    "setting_hide-door-owner_desc": "Oculta la info de la puerta.",
+
+    "setting_hide-fpp-owner_name": "Ocultar Dueño del Prop",
+    "setting_hide-fpp-owner_desc": "Oculta el dueño del prop al que estás mirando.",
+
+    "hide-chat-indicator_name": "¿Ocultar burbuja de chat?",
+    "hide-chat-indicator_desc": "¿Ocultar la burbuja que aparece al escribir?",
+    
+    "setting_disable-name-completion_name": "Desactiva el autocompletar nombre",
+    "setting_disable-name-completion_desc": "Desactiva el autocompletar nombre al usar las comms",
+
+    
+    "notify_decode_name": "Comms Encriptadas",
+    "notify_decode_desc": "¡No puedes decodificar comms encriptadas!",
+    
+    "notify_invalid-decode_name": "Decodificación Invalida",
+    "notify_invalid-decode_desc": "Ejemplo de uso: '/decode 20 68 61 6c 6c 6'",
+    
+    "notify_invalid-comms_name": "Comms Invalidas",
+    "notify_invalid-comms_desc": "Ejemplo de uso: /comms Comandante Rex* ¿Donde estás?",
+    
+    "notify_invalid-encrypted-comms_name": "Comms Encriptadas Invalidas",
+    "notify_invalid-encrypted-ecomms_desc": "Ejemplo de uso: /ecomms Comandante Rex* ¿Donde estás?",
+    
+    "notify_empty_name": "Mensaje Invalido",
+    "notify_empty_desc": "¡Tu mensaje no puede estar vacío!",
+    
+    "notify_missing-perms-encrypted_name": "Comms Encriptadas",
+    "notify_missing-perms-encrypted_desc": "¡No puedes usar Comms Encriptadas!",
+
+    "notify_unstuck-error_name": "Desatorar Invalido",
+    "notify_unstuck-error-cooldown_desc": "¡Estás en cooldown!",
+    "notify_unstuck-error-invalid_desc": "No pareces estar atorado.",
+    "notify_unstuck_name": "Desatorar",
+    "notify_unstuck-start_desc": "¡Tienes 3 segundos para desatorarte!",
+    
+    "notify_disallowed-suicide_name": "Anti Suicidio",
+    "notify_disallowed-suicide_desc": "¡No puedes cometer suicidio!",
+    
+    "notify_no-permissions_name": "Faltan Permisos",
+    "notify_no-permissions_desc": "¡No tienes permiso para esto!",
+    
+    "notify_max-vote-answers_name": "Opciones Máximas Alcanzadas",
+    "notify_max-vote-answers_desc": "¡No puedes añadir más opciones a la votación!",
+    
+    "notify_min-vote-answers_name": "Opciones Mínimas Alcanzadas",
+    "notify_min-vote-answers_desc": "¡No puedes remover más opciones a la votación!",
+    
+    "notify_vote-missing-fields_name": "Faltan Campos",
+    "notify_vote-missing-fields_desc": "¡No has rellenado todos los campos!",
+    
+    "notify_vote-success_name": "Votación Realizada",
+    "notify_vote-success_desc": "¡Has comenzado una votación!",
+    
+    "notify_jobsetter-created_name": "Colocador de Spawns de Jobs",
+    "notify_jobsetter-created_desc": "¡Creaste %s correctamente!",
+    
+    "notify_jobsetter-select-npc_name": "Falta la Selección",
+    "notify_jobsetter-select-npc_desc": "¡Necesitas seleccionar un NPC!",
+    
+    "notify_jobsetter-select-jobs_name": "Falta la Selección",
+    "notify_jobsetter-select-jobs_desc": "¡Necesitas seleccionar Jobs!",
+    
+    "notify_jobsetter-removed-spawns_name": "Spawns Removidos",
+    "notify_jobsetter-removed-spawns_desc": "Los Jobs ya no spawnean en %s!",
+    
+    "notify_jobsetter-spawn-added_name": "Spawn Creado",
+    "notify_jobsetter-spawn-added_desc": "Los jobs seleccionados spawnean ahora en %s!",
+    
+    "notify_jobsetter-deleted_name": "Spawn Eliminado",
+    "notify_jobsetter-deleted_desc": "¡Eliminaste %s correctamente!",
+    
+    
+    "command_act": "Acción",
+    "command_decode": "Decodificar",
+    "command_comms": "Comms",
+    "command_ooc": "OOC",
+    "command_looc": "OOC Local",
+    "command_roll": "Roll",
+    "command_roll_desc": "%s tiró un roll y obtuvo %u.",
+    "command_encrypted-comms": "Encriptada",
+    "command_mact": "Acción Médica",
+    "command_advert": "Anuncio",
+    "command_vote": "Votar",
+    "command_me": "Me",
+    "command_it": "It",
+    "command_unstuck": "Desatorar",
+    "commands_desc": "Desactivar el comando",
+    
+    
+    "general_to": "para",
+    
+    
+    "vote_question": "Ingresa una pregunta...", 
+    "vote_multiple-choice": "Opciones a elegir",
+    "vote_choice": "Posible Opción",
+    "vote_add-choice": "Añadir Opción",
+    "vote_remove-choice": "Remover Opción",
+    "vote_submit": "Enviar",
+    "vote_winner": "ha ganado",
+    "vote_winner_none": "Nadie ha votado",
+        
+    
+    "tool_name": "Colocador de Spawns de DarkRP",
+    "tool_desc": "Aplica spawns para un job",
+    "tool_leftclick": "Spawnea un NPC y le da un nombre",
+    "tool_choose-name": "Elige el nombre del NPC",
+    "tool_spawn": "Spawnear",
+    "tool_abort": "Abortar",
+    "tool_add-jobs": "Añadir Job",
+    "tool_delete-jobs": "Eliminar Job",
+    "tool_delete-npc": "Eliminar NPC seleccionado"
+    
+}
