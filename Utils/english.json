@@ -141,9 +141,11 @@
     "command_it": "It",
     "command_unstuck": "Unstuck",
     "commands_desc": "Deactivate the command",
+    "commands_id": "ID",
     
     
     "general_to": "to",
+    "general_from": "from",
     
     
     "vote_question": "Enter a Question...", 
