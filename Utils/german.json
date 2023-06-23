@@ -140,10 +140,13 @@
     "command_me": "Me",
     "command_it": "It",
     "command_unstuck": "Unstuck",
-    "commands_desc": "Deaktiviert den Command",
-
+    "command_id": "ID",
     
+    "commands_desc": "Deaktiviert den Command",
+   
+
     "general_to": "an",
+    "general_from": "von",
     
     
     "vote_question": "Frage", 
