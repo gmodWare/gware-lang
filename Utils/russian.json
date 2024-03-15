@@ -1,0 +1,171 @@
+{
+	"tab_options": "Настройки",
+	"tab_vote": "Голосование",
+	"tab_commands": "Команды",
+
+
+	"setting_language_name": "Язык",
+	"setting_language_desc": "Выберите желаемый язык интерфейса",
+
+	"setting_npc-weapon-drop_name": "Отключить выпадение оружия NPC",
+	"setting_npc-weapon-drop_desc": "Отключает выпадение оружия у NPC при смерти",
+
+	"setting_toolgun-sounds_name": "Отключить звуки тулгана",
+	"setting_toolgun-sounds_desc": "Отключает звуки тулгана.",
+
+	"setting_toolgun-effects_name": "Отключить эффекты тулгана",
+	"setting_toolgun-effects_desc": "Отключает эффекты тулгана.",
+
+	"setting_auto-cloak_name": "Включить автоматическую невидимку при ноклипе",
+	"setting_auto-cloak_desc": "Переключает невидимку при входе или выходе из ноклипа",
+
+	"setting_killfeed_name": "Скрыть уведомления о смерти",
+	"setting_killfeed_desc": "Не показывать уведомления о смерти.",
+
+	"setting_suicide_name": "Отключить самоубийство",
+	"setting_suicide_desc": "Запретить использование команды на самоубийство?",
+
+	"setting_player-weapon-drop_name": "Отключить выпадение оружия игрока",
+	"setting_player-weapon-drop_desc": "Отключает выбрасывание оружия для игроков.",
+
+	"setting_auto-workshop-dl_name": "Включить сборку мастерской",
+	"setting_auto-workshop-dl_desc": "Заставляет всех игроков загружать сборку при подключении к серверу",
+
+	"setting_billboards_name": "Отключить рекламные щиты DarkRP",
+	"setting_billboards_desc": "Отключает рекламные щиты DarkRP из '/advert'",
+
+	"setting_family-sharing_name": "Отключить семейный доступ к игре в Steam",
+	"setting_family-sharing_desc": "Исключает всех игроков, использующих семейный доступ к игре в Steam",
+
+	"setting_voice-panels_name": "Отключить голосовые панели",
+	"setting_voice-panels_desc": "Скрывает голосовые панели в правом нижнем углу",
+
+	"setting_spawnmenu_name": "Ограничить спавн меню",
+	"setting_spawnmenu_desc": "Добавляет разрешение SAM/CAMI для доступа спавн меню",
+
+	"setting_contextmenu_name": "Ограничить контекстное меню",
+	"setting_contextmenu_desc": "Добавляет разрешение SAM/CAMI для доступа к контекстному меню",
+
+	"setting_encrypted-comms_name": "Ограничить шифрованные коммуникации",
+	"setting_encrypted-comms_desc": "Какие работы могут использовать шифрованные коммуникации.",
+
+	"setting_decode_name": "Декодировать шифрованные коммуникации",
+	"setting_decode_desc": "Какие работы могут декодировать шифрованные коммуникации.",
+
+	"setting_hide-door-owner_name": "Скрыть владельца двери",
+	"setting_hide-door-owner_desc": "Скрывает информацию о двери.",
+
+	"setting_hide-fpp-owner_name": "Скрыть владельца пропа",
+	"setting_hide-fpp-owner_desc": "Скрывает владельца пропа, на который вы смотрите.",
+
+	"setting_hide-chat-indicator_name": "Скрыть индикатор чата?",
+	"setting_hide-chat-indicator_desc": "Следует ли скрывать индикатор набора текста над головой?",
+
+	"setting_disable-name-completion_name": "Отключить автозавершение имени",
+	"setting_disable-name-completion_desc": "Отключает автозавершение имени при использовании коммуникации.",
+
+
+	"notify_decode_name": "Шифрованные коммуникации",
+	"notify_decode_desc": "Вы не можете декодировать шифрованные коммуникации!",
+
+	"notify_invalid-decode_name": "Недопустимое декодирование",
+	"notify_invalid-decode_desc": "Пример декодирования: '/decode 20 68 61 6c 6c 6'",
+
+	"notify_invalid-comms_name": "Недопустимые коммуникации",
+	"notify_invalid-comms_desc": "Использование коммуникации: /comms Командир Рекс* Где вы?",
+
+	"notify_invalid-encrypted-comms_name": "Недопустимые шифрованные коммуникации",
+	"notify_invalid-encrypted-ecomms_desc": "Использование коммуникации: /ecomms Командир Рекс* Где вы?",
+
+	"notify_empty_name": "Недопустимое сообщение",
+	"notify_empty_desc": "Ваше сообщение не может быть пустым!",
+
+	"notify_missing-perms-encrypted_name": "Шифрованные коммуникации",
+	"notify_missing-perms-encrypted_desc": "Вы не можете использовать шифрованные коммуникации!",
+
+	"notify_unstuck-error_name": "Недопустимое unstuck",
+	"notify_unstuck-error-cooldown_desc": "В настоящее время у вас период ожидания!",
+	"notify_unstuck-error-invalid_desc": "Похоже, вы не застряли.",
+	"notify_unstuck_name": "unstuck",
+	"notify_unstuck-start_desc": "У вас есть 3 секунды, чтобы разблокироваться!",
+
+	"notify_disallowed-suicide_name": "Анти-самоубийство",
+	"notify_disallowed-suicide_desc": "Вы не можете совершить самоубийство!",
+
+	"notify_no-permissions_name": "Недостаточно прав",
+	"notify_no-permissions_desc": "У вас недостаточно прав для этого действия!",
+
+	"notify_max-vote-answers_name": "Достигнуто максимальное количество вариантов",
+	"notify_max-vote-answers_desc": "Вы не можете добавить больше вариантов для этого голосования!",
+
+	"notify_min-vote-answers_name": "Достигнуто минимальное количество вариантов",
+	"notify_min-vote-answers_desc": "Вы не можете удалить больше вариантов из этого голосования!",
+
+	"notify_vote-missing-fields_name": "Отсутствуют поля",
+	"notify_vote-missing-fields_desc": "Вы не заполнили все поля!",
+
+	"notify_vote-success_name": "Голосование успешно начато",
+	"notify_vote-success_desc": "Вы успешно начали голосование!",
+
+	"notify_jobsetter-created_name": "Установка спавна работы",
+	"notify_jobsetter-created_desc": "Вы успешно создали %s!",
+
+	"notify_jobsetter-select-npc_name": "Отсутствует выбор",
+	"notify_jobsetter-select-npc_desc": "Вам нужно выбрать NPC!",
+
+	"notify_jobsetter-select-jobs_name": "Отсутствует выбор",
+	"notify_jobsetter-select-jobs_desc": "Вам нужно выбрать работы!",
+
+	"notify_jobsetter-removed-spawns_name": "Спавны удалены",
+	"notify_jobsetter-removed-spawns_desc": "Профессии больше не спавнятся на %s!",
+
+	"notify_jobsetter-spawn-added_name": "Спавн создан",
+	"notify_jobsetter-spawn-added_desc": "Выбранные работы теперь появляются на %s!",
+
+	"notify_jobsetter-deleted_name": "Спавн удален",
+	"notify_jobsetter-deleted_desc": "Вы успешно удалили %s!",
+
+
+	"command_act": "Действие",
+	"command_decode": "Декодировать",
+	"command_comms": "Коммуникации",
+	"command_ooc": "OOC",
+	"command_looc": "нонРП",
+	"command_roll": "Roll",
+	"command_roll_desc": "%s бросил %u.",
+	"command_encrypted-comms": "Шифрованные",
+	"command_mact": "Медицинское действие",
+	"command_advert": "Реклама",
+	"command_vote": "Голосование",
+	"command_me": "Меня",
+	"command_it": "Это",
+	"command_unstuck": "Разблокировать",
+	"command_id": "Идентификация",
+
+	"commands_desc": "Отключить команду",
+
+
+	"general_to": "к",
+	"general_from": "от",
+
+
+	"vote_question": "Введите вопрос...", 
+	"vote_multiple-choice": "Варианты выбора",
+	"vote_choice": "Возможный выбор",
+	"vote_add-choice": "Добавить выбор",
+	"vote_remove-choice": "Удалить выбор",
+	"vote_submit": "Отправить",
+	"vote_winner": "победил",
+	"vote_winner_none": "Никто не проголосовал",
+		
+
+	"tool_name": "Установщик спавна работы DarkRP",
+	"tool_desc": "Установите спавны работы DarkRP",
+	"tool_leftclick": "Спавнить NPC и дать ему имя",
+	"tool_choose-name": "Выберите имя для NPC",
+	"tool_spawn": "Спавн",
+	"tool_abort": "Прервать",
+	"tool_add-jobs": "Добавить работу",
+	"tool_delete-jobs": "Удалить работу",
+	"tool_delete-npc": "Удалить выбранного NPC"
+}
