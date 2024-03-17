@@ -133,7 +133,7 @@
     "command_looc": "LOOC",
     "command_roll": "Würfel",
     "command_roll_desc": "%s hat eine %u gewürfelt.",
-    "command_encrypted-comms": "Verschl. Comms",
+    "command_encrypted-comms": "Verschl. Funk",
     "command_mact": "Medic Akt",
     "command_advert": "Advert",
     "command_vote": "Abstimmung",
